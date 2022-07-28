@@ -1,6 +1,7 @@
 // The FizzBuzz program in JavaScript
 
 for (let i = 0; i < 101; i++) {
+    console.log(i)
     if (i % 15 == 0) {
         console.log("FizzBuzz!")
     } else if (i % 5 == 0) {
