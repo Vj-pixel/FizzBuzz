@@ -10,6 +10,7 @@ for (let i = 0; i < 101; i++) {
         console.log("Buzz")
     } else {
         console.log(i)
+        console.log("Not applicable to the game")
     }
     
 }
